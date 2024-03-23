@@ -1,0 +1,140 @@
+[
+  {
+    "id": "1",
+    "logo": "../src/assets/logo/google.png",
+    "job_title": "Senior AI Engineer",
+    "company": "Google",
+    "location": "San Francisco, USA",
+    "job_description": "Join our dynamic team at InnovateX AI to develop cutting-edge AI solutions for diverse applications. We're seeking an experienced AI Engineer proficient in machine learning algorithms and Python programming.",
+    "job_type": "Full-time",
+    "remote_or_onsite": "On-site",
+    "salary": "$120,000 - $150,000 per year",
+    "job_responsibility": [
+      "Design and implement machine learning models for various AI applications.",
+      "Collaborate with cross-functional teams to integrate AI solutions into products.",
+      "Research and experiment with new algorithms and techniques to improve AI performance."
+    ],
+    "educational_requirements": "Master's or Ph.D. in Computer Science, Artificial Intelligence, or related field.",
+    "experiences": "3+ years of experience in AI development and implementation.",
+    "contact_information": {
+      "email": "jobs@innovatexai.com",
+      "phone": "+1 (123) 456-7890",
+      "website": "https://www.innovatexai.com/careers"
+    }
+  },
+  {
+    "id": "2",
+    "logo": "../src/assets/logo/tesla.png",
+    "job_title": "Software Engineer",
+    "company": "Tesla",
+    "location": "Cambridge, UK",
+    "job_description": "GenoTech Research is seeking a talented Bioinformatics Research Scientist to contribute to our groundbreaking research in genomics. The ideal candidate will have expertise in computational biology and genomic data analysis.",
+    "job_type": "Contract",
+    "remote_or_onsite": "remote",
+    "salary": "£50,000 - £70,000 per annum",
+    "job_responsibility": [
+      "Analyze genomic data using bioinformatics tools and algorithms.",
+      "Contribute to research projects aimed at understanding genetic diseases and developing therapeutic interventions.",
+      "Collaborate with interdisciplinary teams to interpret and validate genomic findings."
+    ],
+    "educational_requirements": "Ph.D. in Bioinformatics, Computational Biology, Genetics, or related field.",
+    "experiences": "2+ years of experience in bioinformatics research.",
+    "contact_information": {
+      "email": "careers@genotechresearch.co.uk",
+      "phone": "+44 (0) 1234 567890",
+      "website": "https://www.genotechresearch.co.uk/careers"
+    }
+  },
+  {
+    "id": "3",
+    "logo": "/src/assets/logo/CareerHub.png",
+    "job_title": "Spacecraft Systems Engineer",
+    "company": "StarQuest Aerospace",
+    "location": "Houston, USA",
+    "job_description": "Embark on a journey to the stars with StarQuest Aerospace! We're hiring a Spacecraft Systems Engineer to design and optimize spacecraft systems for future space missions. Experience with spacecraft design and orbital mechanics required.",
+    "job_type": "Full-time",
+    "remote_or_onsite": "remote",
+    "salary": "$90,000 - $120,000 per year",
+    "job_responsibility": [
+      "Design and analyze spacecraft subsystems such as propulsion, guidance, and control systems.",
+      "Conduct performance evaluations and simulations to ensure mission success.",
+      "Collaborate with cross-functional teams to integrate systems into spacecraft designs."
+    ],
+    "educational_requirements": "Bachelor's or Master's degree in Aerospace Engineering, Mechanical Engineering, or related field.",
+    "experiences": "5+ years of experience in spacecraft systems engineering.",
+    "contact_information": {
+      "email": "hr@starquestaerospace.com",
+      "phone": "+1 (987) 654-3210",
+      "website": "https://www.starquestaerospace.com/careers"
+    }
+  },
+  {
+    "id": "4",
+    "logo": "../src/assets/logo/google.png",
+    "job_title": "Senior AI Engineer",
+    "company": "Google",
+    "location": "San Francisco, USA",
+    "job_description": "Join our dynamic team at InnovateX AI to develop cutting-edge AI solutions for diverse applications. We're seeking an experienced AI Engineer proficient in machine learning algorithms and Python programming.",
+    "job_type": "Full-time",
+    "remote_or_onsite": "On-site",
+    "salary": "$120,000 - $150,000 per year",
+    "job_responsibility": [
+      "Design and implement machine learning models for various AI applications.",
+      "Collaborate with cross-functional teams to integrate AI solutions into products.",
+      "Research and experiment with new algorithms and techniques to improve AI performance."
+    ],
+    "educational_requirements": "Master's or Ph.D. in Computer Science, Artificial Intelligence, or related field.",
+    "experiences": "3+ years of experience in AI development and implementation.",
+    "contact_information": {
+      "email": "jobs@innovatexai.com",
+      "phone": "+1 (123) 456-7890",
+      "website": "https://www.innovatexai.com/careers"
+    }
+  },
+  {
+    "id": "5",
+    "logo": "../src/assets/logo/tesla.png",
+    "job_title": "Software Engineer",
+    "company": "Tesla",
+    "location": "Cambridge, UK",
+    "job_description": "GenoTech Research is seeking a talented Bioinformatics Research Scientist to contribute to our groundbreaking research in genomics. The ideal candidate will have expertise in computational biology and genomic data analysis.",
+    "job_type": "Contract",
+    "remote_or_onsite": "remote",
+    "salary": "£50,000 - £70,000 per annum",
+    "job_responsibility": [
+      "Analyze genomic data using bioinformatics tools and algorithms.",
+      "Contribute to research projects aimed at understanding genetic diseases and developing therapeutic interventions.",
+      "Collaborate with interdisciplinary teams to interpret and validate genomic findings."
+    ],
+    "educational_requirements": "Ph.D. in Bioinformatics, Computational Biology, Genetics, or related field.",
+    "experiences": "2+ years of experience in bioinformatics research.",
+    "contact_information": {
+      "email": "careers@genotechresearch.co.uk",
+      "phone": "+44 (0) 1234 567890",
+      "website": "https://www.genotechresearch.co.uk/careers"
+    }
+  },
+  {
+    "id": "6",
+    "logo": "/src/assets/logo/CareerHub.png",
+    "job_title": "Spacecraft Systems Engineer",
+    "company": "StarQuest Aerospace",
+    "location": "Houston, USA",
+    "job_description": "Embark on a journey to the stars with StarQuest Aerospace! We're hiring a Spacecraft Systems Engineer to design and optimize spacecraft systems for future space missions. Experience with spacecraft design and orbital mechanics required.",
+    "job_type": "Full-time",
+    "remote_or_onsite": "On-site",
+    "salary": "$90,000 - $120,000 per year",
+    "job_responsibility": [
+      "Design and analyze spacecraft subsystems such as propulsion, guidance, and control systems.",
+      "Conduct performance evaluations and simulations to ensure mission success.",
+      "Collaborate with cross-functional teams to integrate systems into spacecraft designs."
+    ],
+    "educational_requirements": "Bachelor's or Master's degree in Aerospace Engineering, Mechanical Engineering, or related field.",
+    "experiences": "5+ years of experience in spacecraft systems engineering.",
+    "contact_information": {
+      "email": "hr@starquestaerospace.com",
+      "phone": "+1 (987) 654-3210",
+      "website": "https://www.starquestaerospace.com/careers"
+    }
+  }
+]
